@@ -50,6 +50,21 @@ class Nav extends React.Component {
                   Bootstrap
                 </button>
               </Link>
+              <Link to="/material">
+                <button className="ui button" role="button">
+                  Material UI
+                </button>
+              </Link>
+              <Link to="/semantic">
+                <button className="ui button" role="button">
+                  Semantic
+                </button>
+              </Link>
+              <Link to="/antd">
+                <button className="ui button" role="button">
+                  AntD
+                </button>
+              </Link>
             </div>
           </div>
         )}

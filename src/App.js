@@ -20,6 +20,7 @@ class App extends Component {
     return (
       <div className="App">
         <div style={{ width: "100%" }}>{routes}</div>
+        {/* Nav Bar */}
         <Motion
           defaultStyle={{ x: 0, opacity: 0 }}
           style={{

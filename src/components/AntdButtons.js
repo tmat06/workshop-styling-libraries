@@ -19,7 +19,7 @@ export default class AntdButtons extends React.Component {
           Based on the Ant Design language, Antd can be compatible with React,
           Angular, and Vue. A design language for background applications, is
           refined by Ant UED Team, which aims to uniform the user interface
-          specs for internal background projects, lower teh unnecessary cost of
+          specs for internal background projects, lower the unnecessary cost of
           design differences and implementation and liberate the resources of
           design and front-end development.{" "}
         </p>
